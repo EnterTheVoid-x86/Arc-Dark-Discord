@@ -1,0 +1,50 @@
+/**
+ * @name Arc Dark
+ * @description A recolor of the discord color scheme to Arc Dark.
+ * @author Archimax
+ * @version 1.0.0
+ * @authorId 603038333752442943
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=whitney:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --accentcolor: 82,148,226;
+  --accentcolor2: 82,148,226;
+  --linkcolor: 0,176,244;
+  --mentioncolor: 82,148,226;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 207,207,207;
+  --textdark: 175,175,175;
+  --textdarker: 161,161,161;
+  --textdarkest: 197,197,197;
+  --font: gg sans;
+  --backgroundaccent: 56,60,74;
+  --backgroundprimary: 64,69,82;
+  --backgroundsecondary: 75,81,98;
+  --backgroundsecondaryalt: 75,81,98;
+  --backgroundtertiary: 56,60,74;
+  --backgroundfloating: 56,60,74;
+  --settingsicons: 1;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #5294E2;
+  --rs-idle-color: #4079BB;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #7C818C;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
